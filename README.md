@@ -1,6 +1,4 @@
 # Tutorial
-Just another repository
-
 Hi~
 ### Title
 - list1
